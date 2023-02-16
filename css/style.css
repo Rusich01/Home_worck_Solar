@@ -35,7 +35,7 @@ a {
   transition: all 0.5s;
 }
 .button {
-  margin-top: 103px;
+  margin-top: 62px;
 }
 .btn::before {
   position: relative;
@@ -56,9 +56,6 @@ a {
   background: #a9a32a;
   border: 2px solid #303030;
 }
-/* .block-header-text a {
-  margin-top: 103px;
-} */
 .container {
   max-width: 1229px;
   padding: 0 15px;
@@ -275,7 +272,7 @@ a {
   margin-bottom: 15px;
 }
 .button-two {
-  margin-top: 91px;
+  margin-top: 107px;
   margin-left: -44px;
 }
 .two-info a {
@@ -371,6 +368,9 @@ footer h2 {
 .contact-footer {
   width: 600px;
   margin-left: 90px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: calc(25 / 18);
 }
 [type="tel"],
 [type="text"] {
@@ -387,7 +387,7 @@ footer h2 {
   color: #ffffff;
 }
 .contact-footer p {
-  margin-bottom: 30px;
+  margin-bottom: 29px;
 }
 .contact-footer p:last-child {
   margin-top: 30px;
@@ -409,6 +409,6 @@ footer h2 {
   float: right;
 }
 .last-footer-block {
-  margin-top: 156px;
-  padding-bottom: 18px;
+  margin-top: 118px;
+  padding-bottom: 50px;
 }
